@@ -1,1 +1,1 @@
-Screenshot_20201008-081640_HTML Viewer
+![https://octodex.github.com/images/yaktocat.png]
